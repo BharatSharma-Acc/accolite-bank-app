@@ -34,3 +34,5 @@ response should be:
 ```
 UI should open with multiple operations like account-operations and user-operations
 ```
+
+Refer UserManual for complete Request/Response and other required details. Please contact me at bharat.sharma@accolitedigital.com for any issue
