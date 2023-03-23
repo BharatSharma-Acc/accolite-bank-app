@@ -1,0 +1,7 @@
+version: "3"
+services:
+    accolite_bank_app:
+        image: accolite_bank_application
+        build: .
+        ports:
+            - "8080:8080"
